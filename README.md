@@ -1,2 +1,8 @@
-Please, make sure if you edit the notebook you do it from here: https://colab.research.google.com/drive/12Gj5PcH8Cpnq1HIKIvVc9n0O1bFfjtIf?usp=sharing
-If you do it from your local computer and then commit, it will crash. Jupyter notebooks and git do not get on well
+We explore a combination of Recommender Systems
+on the Movie Lens 20M dataset. A Collaborative Filtering
+algorithm, two Content Based algorithms, a Hybrid strategy,
+and Group Aggregation strategies are implemented. Each of
+these algorithms have to be evaluated on a subset of the data
+because of computational and time contraints, thus we had to
+explore subsetting techniques. Fairness of the Collaborative
+Filtering and Content Based algorithms are also explored
